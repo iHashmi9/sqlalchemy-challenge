@@ -7,3 +7,5 @@ Utilized chatgpt to build descending order of counts on measurement by stations
 Utilized activity solutions to build the min, max and avg function query for the session
 
 Utilized chatgpt to build dictionaries for both tobs, and precipitation(stations and their measurements)
+
+utilized chatgpt to build query and temperatue statistics calculations for specified date range in the Flask app
